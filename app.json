@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Pejung's Pokédex",
+    "slug": "pokedex-02240148",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "plugins": [
+      "expo-status-bar",
+      "expo-font",
+      "expo-splash-screen"
+    ]
+  }
+}

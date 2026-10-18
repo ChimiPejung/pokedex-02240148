@@ -1,0 +1,41 @@
+// Classic Pokédex palette: red casing, blue lens, three indicator lights,
+// dark bezel around a pale screen, yellow accents.
+export const fonts = { pixel: 'PressStart2P_400Regular' };
+export const colors = {
+  red: '#D7263D',
+  redDark: '#9E1B2B',
+  redSoft: '#FBE4E7',
+  blue: '#2E86DE',
+  blueDark: '#1B5FA8',
+  yellow: '#FFCB05',
+  green: '#2ECC71',
+  danger: '#E74C3C',
+  bezel: '#1E2630',
+  screen: '#DCEBE4',
+  bg: '#F5EFEF',
+  card: '#FFFFFF',
+  ink: '#1E2630',
+  muted: '#6B7683',
+  line: '#E3D9DA',
+};
+
+export const typeColors = {
+  normal: '#A8A77A',
+  fire: '#EE8130',
+  water: '#6390F0',
+  electric: '#F7D02C',
+  grass: '#7AC74C',
+  ice: '#96D9D6',
+  fighting: '#C22E28',
+  poison: '#A33EA1',
+  ground: '#E2BF65',
+  flying: '#A98FF3',
+  psychic: '#F95587',
+  bug: '#A6B91A',
+  rock: '#B6A136',
+  ghost: '#735797',
+  dragon: '#6F35FC',
+  dark: '#705746',
+  steel: '#B7B7CE',
+  fairy: '#D685AD',
+};
